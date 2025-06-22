@@ -33,9 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Update Qiita Blog Index
-        run: |
-          curl -sL https://raw.githubusercontent.com/yoshi389111/yoshi389111.github.io/main/.github/scripts/update_qiita_index.sh | bash
+          MAX_REPOS: 200
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
