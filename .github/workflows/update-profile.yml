@@ -1,0 +1,49 @@
+name: Update My GitHub Profile
+
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+      - name: Install dependencies
+        run: npm install
+      - name: Pull articles from Qiita
+        run: npx rimraf ./public/.remote && npx qiita pull -f
+        env:
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+      - name: Update Index
+        run: npm run create-index
+        env:
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Update Qiita Blog Index
+        run: |
+          curl -sL https://raw.githubusercontent.com/yoshi389111/yoshi389111.github.io/main/.github/scripts/update_qiita_index.sh | bash
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          if git commit -m "${COMMIT_MESSAGE}"; then
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update GitHub profile"
