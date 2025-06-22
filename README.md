@@ -6,9 +6,7 @@
 
 ## 💬 **Today's Quote**
 <div align="center">
-  <picture>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
 
 ## 🗞️ **Current Post**
