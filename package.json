@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "name": "jerrywdlee",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"> ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=header) </div>",
+  "main": "index.js",
+  "scripts": {
+    "create-index": "node ./create-index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrywdlee/jerrywdlee.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrywdlee/jerrywdlee/issues"
+  },
+  "homepage": "https://github.com/jerrywdlee/jerrywdlee#readme",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "gray-matter": "^4.0.3",
+    "markdown-table": "^3.0.4",
+    "rimraf": "^6.0.1"
+  }
+}

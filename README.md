@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=header)
+
+</div>
+
+## 💬 **Today's Quote**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+## 🗞️ **Current Post**
+
+<div align="center">
+
+<!-- INDEX:LEN:5 -->
+<!-- INDEX:START -->
+| Title                                                                                                          | Lang. |   Updated |
+| :------------------------------------------------------------------------------------------------------------- | :---: | --------: |
+| [Server-Sent Events(SSE)の2方向通信Server&Clientの最小構成](https://qiita.com/jerrywdlee/items/028d7a15fa07b7044886)     |  🇯🇵 | 2025/6/20 |
+| [Playwrightで特定のDom要素の変化を検知する](https://qiita.com/jerrywdlee/items/a5480150f59764be619c)                         |  🇯🇵 | 2025/6/19 |
+| [MCPサーバーの最小構成を作ってみる(Node.js版)](https://qiita.com/jerrywdlee/items/d20de494f47091babf7e)                        |  🇯🇵 | 2025/6/18 |
+| [複数MCPツールを同時に利用可能なChatbotを最小構成で作ってみる(Google Gemini版)](https://qiita.com/jerrywdlee/items/ceca3b3a942d61e5b387) |  🇯🇵 | 2025/6/18 |
+| [Dockerの中のPuppeteerをスクショしてResizeし、AWS S3にアップロード](https://qiita.com/jerrywdlee/items/aaecbdc464787a2edba0)      |  🇯🇵 | 2025/5/28 |
+<!-- INDEX:END -->
+
+</div>
+
+## 🌱 **GitHub Activity**
+
+<div align="center">
+
+![profile-season-animate.svg](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer)
+
+</div>
 <!--
-**jerrywdlee/jerrywdlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Note
+- [Capsule-Render](https://capsule-render.vercel.app/)
+- [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib/tree/main)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
