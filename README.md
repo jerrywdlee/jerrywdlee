@@ -6,7 +6,9 @@
 
 ## 💬 **Today's Quote**
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ## 🗞️ **Current Post**
