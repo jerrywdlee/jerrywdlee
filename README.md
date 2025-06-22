@@ -1,12 +1,14 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=header)
-
+  <picture>
+    <img alt="3D Profile" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=header" />
+  </picture>
 </div>
 
 ## 💬 **Today's Quote**
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <picture>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  </picture>
 </div>
 
 ## 🗞️ **Current Post**
@@ -29,15 +31,15 @@
 ## 🌱 **GitHub Activity**
 
 <div align="center">
-
-![profile-season-animate.svg](./profile-3d-contrib/profile-season-animate.svg)
-
+  <picture>
+    <img src="https://raw.githubusercontent.com/jerrywdlee/jerrywdlee/main/profile-3d-contrib/profile-season-animate.svg" alt="GitHub Activity" width="100%" />
+  </picture>
 </div>
 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer)
-
+  <picture>
+    <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer" />
+  </picture>
 </div>
 <!--
 
