@@ -19,11 +19,11 @@
 <!-- INDEX:START -->
 | Title                                                                                                          | Lang. |   Updated |
 | :------------------------------------------------------------------------------------------------------------- | :---: | --------: |
+| [複数MCPツールを同時に利用可能なChatbotを最小構成で作ってみる(Google Gemini版)](https://qiita.com/jerrywdlee/items/ceca3b3a942d61e5b387) |  🇯🇵 | 6/24/2025 |
+| [MCPサーバーの最小構成を作ってみる(Node.js版)](https://qiita.com/jerrywdlee/items/d20de494f47091babf7e)                        |  🇯🇵 | 6/24/2025 |
+| [MCPを活用してAI Agentで定期タスクを実行できるように](https://qiita.com/jerrywdlee/items/c4ef5c2e9872d24039a7)                     |  🇯🇵 | 6/24/2025 |
 | [Server-Sent Events(SSE)の2方向通信Server&Clientの最小構成](https://qiita.com/jerrywdlee/items/028d7a15fa07b7044886)     |  🇯🇵 | 6/20/2025 |
 | [Playwrightで特定のDom要素の変化を検知する](https://qiita.com/jerrywdlee/items/a5480150f59764be619c)                         |  🇯🇵 | 6/19/2025 |
-| [MCPサーバーの最小構成を作ってみる(Node.js版)](https://qiita.com/jerrywdlee/items/d20de494f47091babf7e)                        |  🇯🇵 | 6/18/2025 |
-| [複数MCPツールを同時に利用可能なChatbotを最小構成で作ってみる(Google Gemini版)](https://qiita.com/jerrywdlee/items/ceca3b3a942d61e5b387) |  🇯🇵 | 6/18/2025 |
-| [Dockerの中のPuppeteerをスクショしてResizeし、AWS S3にアップロード](https://qiita.com/jerrywdlee/items/aaecbdc464787a2edba0)      |  🇯🇵 | 5/27/2025 |
 <!-- INDEX:END -->
 
 </div>
