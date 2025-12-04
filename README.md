@@ -19,11 +19,11 @@
 <!-- INDEX:START -->
 | Title                                                                                                          | Lang. |   Updated |
 | :------------------------------------------------------------------------------------------------------------- | :---: | --------: |
+| [Docker版n8nでホストPCのPlaywright MCPを使用する](https://qiita.com/jerrywdlee/items/3b8600b52227d47adc7a)                |  🇯🇵 | 12/3/2025 |
 | [[悪用禁止] Playwright MCPでログイン状態のページにアクセス](https://qiita.com/jerrywdlee/items/5dfd9ad35b4fa1202cc2)               |  🇯🇵 | 12/2/2025 |
 | [PowerShellでSQL Serverからデータを取得しExcelに出力](https://qiita.com/jerrywdlee/items/614806e5e95663fb489d)              |  🇯🇵 | 7/19/2025 |
 | [[2025年版] Slack APIのSocket Modeでの送受信](https://qiita.com/jerrywdlee/items/b3a5f1322130fc9d6ab9)                 |  🇯🇵 | 7/15/2025 |
 | [複数MCPツールを同時に利用可能なChatbotを最小構成で作ってみる(Google Gemini版)](https://qiita.com/jerrywdlee/items/ceca3b3a942d61e5b387) |  🇯🇵 | 6/24/2025 |
-| [MCPサーバーの最小構成を作ってみる(Node.js版)](https://qiita.com/jerrywdlee/items/d20de494f47091babf7e)                        |  🇯🇵 | 6/24/2025 |
 <!-- INDEX:END -->
 
 </div>
