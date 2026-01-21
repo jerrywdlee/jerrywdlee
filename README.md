@@ -19,7 +19,7 @@
 <!-- INDEX:START -->
 | Title                                                                                           | Lang. |    Updated |
 | :---------------------------------------------------------------------------------------------- | :---: | ---------: |
-| [LLMを使ってゲームの攻略チームを編成する](https://qiita.com/jerrywdlee/items/87494c3696cde150b1c2)                |  🇯🇵 |  1/12/2026 |
+| [LLMを使ってゲームの攻略チームを編成する](https://qiita.com/jerrywdlee/items/87494c3696cde150b1c2)                |  🇯🇵 |  1/21/2026 |
 | [Localのn8nをSlackと繋いでみた](https://qiita.com/jerrywdlee/items/2f645d3b9252209951dc)                |  🇯🇵 | 12/26/2025 |
 | [[2025年版] Slack APIのSocket Modeでの送受信](https://qiita.com/jerrywdlee/items/b3a5f1322130fc9d6ab9)  |  🇯🇵 | 12/26/2025 |
 | [AzureでのOpenAI APIの設定](https://qiita.com/jerrywdlee/items/7affc80e7663780a1f04)                 |  🇯🇵 | 12/16/2025 |
