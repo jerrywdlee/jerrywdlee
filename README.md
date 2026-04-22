@@ -17,13 +17,13 @@
 
 <!-- INDEX:LEN:5 -->
 <!-- INDEX:START -->
-| Title                                                                                                            | Lang. |    Updated |
-| :--------------------------------------------------------------------------------------------------------------- | :---: | ---------: |
-| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(後編)：Node.jsとTerserによる自動化と配備](https://qiita.com/jerrywdlee/items/7e83616118a8b573a45a) |  🇯🇵 |  3/29/2026 |
-| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(中編)：RPCによる関数の遠隔実行](https://qiita.com/jerrywdlee/items/e2c176d4fea5d559f270)           |  🇯🇵 |  3/29/2026 |
-| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(前編)：Cross-Domain通信の仕組み](https://qiita.com/jerrywdlee/items/bfb17489efe042bd05ba)      |  🇯🇵 |  3/29/2026 |
-| [LLMを使ってゲームの攻略チームを編成する](https://qiita.com/jerrywdlee/items/87494c3696cde150b1c2)                                 |  🇯🇵 |  1/21/2026 |
-| [Localのn8nをSlackと繋いでみた](https://qiita.com/jerrywdlee/items/2f645d3b9252209951dc)                                 |  🇯🇵 | 12/26/2025 |
+| Title                                                                                                            | Lang. |   Updated |
+| :--------------------------------------------------------------------------------------------------------------- | :---: | --------: |
+| [VS Code で Azure OpenAI の Codex を使う](https://qiita.com/jerrywdlee/items/b273a9d19ffabe660486)                    |  🇯🇵 | 4/22/2026 |
+| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(後編)：Node.jsとTerserによる自動化と配備](https://qiita.com/jerrywdlee/items/7e83616118a8b573a45a) |  🇯🇵 | 3/29/2026 |
+| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(中編)：RPCによる関数の遠隔実行](https://qiita.com/jerrywdlee/items/e2c176d4fea5d559f270)           |  🇯🇵 | 3/29/2026 |
+| [[悪用禁止] 外部サイトのDOMを自前SPAで操る(前編)：Cross-Domain通信の仕組み](https://qiita.com/jerrywdlee/items/bfb17489efe042bd05ba)      |  🇯🇵 | 3/29/2026 |
+| [LLMを使ってゲームの攻略チームを編成する](https://qiita.com/jerrywdlee/items/87494c3696cde150b1c2)                                 |  🇯🇵 | 1/21/2026 |
 <!-- INDEX:END -->
 
 </div>
